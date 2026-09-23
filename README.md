@@ -15,11 +15,10 @@
 
 ## About Me
 
-I'm a CData Science student passionate about building data-driven web applications and machine learning solutions. I've interned as a Full-Stack Developer, AI/ML Engineer, and Web Developer and I look forward to learning about any more fields in Compumter Science.
+Data Science student passionate about data analytics, machine learning, and visual design. Experienced in data analysis, IT operations, and graphic design, with a strong focus on turning complex datasets into engaging visual stories and efficient technical workflows. Driven to continually expand my skills across all areas of computer science and technology.
 
-- Currently working on the **Augustana Recreation Swipe-In Tracker** (React + cloud DB)
-- Currently building my **Gaming Portfolio** with TypeScript
 - Open to internship opportunities in data science, data/ business analytics  or AI/ML
+- **Executive Board in  Augustana Asian Student Organization(ASO)**
 -  **Executive Board in  Delta Omega Nu(DON)**
 
 ---
