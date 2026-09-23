@@ -52,20 +52,6 @@ I'm a CData Science student passionate about building data-driven web applicatio
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-## Projects
-
-### [Real-Time Object Detection & Automation System](https://github.com/Zuri-1/Aimtrainer-Aimbot)
-Python · YOLOv5 · OpenCV · PyAutoGUI · NumPy
-
----
-### [Spam Email Classification Model](https://colab.research.google.com/drive/11cQek_z7p8_-OHPWETlBELInQ8kDcEfI)
-Python · scikit-learn · Pandas · NumPy · Matplotlib
-
----
-### [Augustana Recreation Swipe-In Tracker](https://github.com/AugustanaCSC490Spring2026/BBLS)
-React · JavaScript · HTML/CSS · Cloud Database
-
----
 
 <p align="center">
   <i>Thanks for visiting! Feel free to reach out — I'm always open to collaboration and new opportunities.</i>
